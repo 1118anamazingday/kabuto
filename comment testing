@@ -15,6 +15,7 @@ public class Testcomment {
 	int wclass=12;
 	int 我是=1;
 	int $class=12;
+	int _class=123
 	
 	
 			
