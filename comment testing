@@ -1,0 +1,24 @@
+package mypor02;
+
+public class Testcomment {
+	public static void main(String[] args/*args是参数*/) {
+		System.out.println("测试注释符");/**为什么是文档呢，这个稳当的作用体现在哪里？*/
+	}
+/*
+这是一个随意打字的地方】
+你可以打很多很多行 	
+ */
+/*
+以下是标识符的测试
+ */
+	int _f_s=10;
+	int wclass=12;
+	int 我是=1;
+	int $class=12;
+	
+	
+			
+	
+
+
+}
